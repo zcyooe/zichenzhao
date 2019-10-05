@@ -1,4 +1,3 @@
 # zichenzhao
-a simple SAR image analysis
-\the code is in the file named result.R
+A simple SAR image analysis.The code is in the file named assignment.R
 
